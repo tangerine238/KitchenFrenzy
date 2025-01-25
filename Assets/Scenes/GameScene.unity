@@ -630,6 +630,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1331053109 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7121720183548051728, guid: 354daf741a019fb4d93f7997e4212084, type: 3}
+  m_PrefabInstance: {fileID: 2053112378}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b776a438a5b6347865a587b0507dfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1831074437 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3294758251327466535, guid: 1c5dda3c7cd3cf742afcade5419faeab, type: 3}
@@ -950,6 +961,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7121720183548051728, guid: 354daf741a019fb4d93f7997e4212084, type: 3}
+      propertyPath: testing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121720183548051728, guid: 354daf741a019fb4d93f7997e4212084, type: 3}
+      propertyPath: secondClearCounter
+      value: 
+      objectReference: {fileID: 1331053109}
     - target: {fileID: 7693527328427624018, guid: 354daf741a019fb4d93f7997e4212084, type: 3}
       propertyPath: m_Name
       value: ClearCounter
