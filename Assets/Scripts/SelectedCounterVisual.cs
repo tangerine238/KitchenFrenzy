@@ -13,12 +13,10 @@ public class SelectedCounterVisual : MonoBehaviour
     {
         if (e.selectedCounter == clearCounter)
         {
-            Debug.Log("Show");
             Show();
         }
         else
         {
-            Debug.Log("Hide");
             Hide();
         }
     }
