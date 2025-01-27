@@ -101,7 +101,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   counterTopPoint: {fileID: 3583241708668511504}
-  cutKitchenObjectSO: {fileID: 11400000, guid: ba4ba782c6972904fbe7507085ee784b, type: 2}
+  cuttingRecipeSOArray:
+  - {fileID: 11400000, guid: 9f27bb638ab1f364f8e88e3f1d3d3d7b, type: 2}
+  - {fileID: 11400000, guid: e9c1c5b8da39b364ca722bc26dc97d4e, type: 2}
+  - {fileID: 11400000, guid: 4ca7d72c6c27a014e916cdd0b6c9bd06, type: 2}
 --- !u!1001 &2274779717257010002
 PrefabInstance:
   m_ObjectHideFlags: 0
