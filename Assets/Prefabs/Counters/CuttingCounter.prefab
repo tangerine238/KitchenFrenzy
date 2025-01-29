@@ -348,6 +348,10 @@ PrefabInstance:
       propertyPath: hasProgressGameObject
       value: 
       objectReference: {fileID: 7693527328427624018}
+    - target: {fileID: 584986339602295822, guid: a1c878459ad7d9942aa906adb8317a48, type: 3}
+      propertyPath: mode
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2120849987922676628, guid: a1c878459ad7d9942aa906adb8317a48, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
