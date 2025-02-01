@@ -124,6 +124,62 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4625888655619643471}
     m_Modifications:
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: plateKitchenObject
+      value: 
+      objectReference: {fileID: 5803449870349600928}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[0].gameObject
+      value: 
+      objectReference: {fileID: 7837826537204895900}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[1].gameObject
+      value: 
+      objectReference: {fileID: 7837826537994885202}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[2].gameObject
+      value: 
+      objectReference: {fileID: 7837826538899219332}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[3].gameObject
+      value: 
+      objectReference: {fileID: 7837826538938655824}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[4].gameObject
+      value: 
+      objectReference: {fileID: 7837826538008153630}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[5].gameObject
+      value: 
+      objectReference: {fileID: 8043138763108099598}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[0].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 90b29701f06fd864db0b2b0018e462f4, type: 2}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[1].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 07f8e7a6b9e5cf340bdde44f489a6478, type: 2}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[2].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: ba4ba782c6972904fbe7507085ee784b, type: 2}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[3].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 3a47b0b929cb3c74cb9de0091d9900d8, type: 2}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[4].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 20b9e5bf60f1a304e87b2005cb05df34, type: 2}
+    - target: {fileID: -5412282602864375795, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+      propertyPath: kitchenObjectSOGameObjectList.Array.data[5].kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: a5138d577af581d4dacfe7795b8c3620, type: 2}
     - target: {fileID: 408889407006782756, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -176,5 +232,35 @@ PrefabInstance:
 --- !u!4 &6354441354918677163 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 408889407006782756, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7837826537204895900 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3550707552663613203, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7837826537994885202 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3550707552375629789, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7837826538008153630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3550707552397226385, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7837826538899219332 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3550707551136013323, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7837826538938655824 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3550707550894988255, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
+  m_PrefabInstance: {fileID: 6738273453997424527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8043138763108099598 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3611271270719445377, guid: 10e39c981f2de6441b54efde32ced8f0, type: 3}
   m_PrefabInstance: {fileID: 6738273453997424527}
   m_PrefabAsset: {fileID: 0}
